@@ -14,7 +14,7 @@ Conducted an in-depth analysis in Python of Cyclistic bike-share 12 month data, 
 
 ## Data Analyst Job Market Analysis - Virginia
 ### Project Description
-This project analyzes job postings for Data Analyst roles in Virginia (VA) to identify top-paying skills, highest-paying job opportunities, most demanded skills, and optimal skills that combine both high demand and competitive salaries. The analysis is based on data from a job postings dataset. [Click here to view the project](https://github.com/jvillat2/hotel-renvenue-dashboard)
+This project analyzes job postings for Data Analyst roles in Virginia (VA) to identify top-paying skills, highest-paying job opportunities, most demanded skills, and optimal skills that combine both high demand and competitive salaries. The analysis is based on data from a job postings dataset. [Click here to view the project](https://github.com/jvillat2/Data-Analyst-Job-Market-Analysis-in-Virginia)
 
 ### Tools and Languages Used
 * SQL
@@ -23,7 +23,7 @@ This project analyzes job postings for Data Analyst roles in Virginia (VA) to id
 
 ## Hotel Revenue Dashboard
 ### Project Description
-This project involves creating a hotel revenue dashboard in Tableau to visualize revenue, booking behavior, and North Star metrics by hotel type (City Hotel and Resort Hotel) and country, covering the period from January 2018 to September 2020. The objective is to uncover trends, identify patterns, and answer business-relevant questions that can inform strategic decisions for optimizing revenue and enhancing operational efficiency. [Click here to view the project](https://github.com/jvillat2/Data-Analyst-Job-Market-Analysis-in-Virginia)
+This project involves creating a hotel revenue dashboard in Tableau to visualize revenue, booking behavior, and North Star metrics by hotel type (City Hotel and Resort Hotel) and country, covering the period from January 2018 to September 2020. The objective is to uncover trends, identify patterns, and answer business-relevant questions that can inform strategic decisions for optimizing revenue and enhancing operational efficiency. [Click here to view the project](https://github.com/jvillat2/hotel-renvenue-dashboard)
 ### Tools and Languages Used
 * SQL
 * SQL Server
