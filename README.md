@@ -14,7 +14,7 @@ Conducted an in-depth analysis in Python of Cyclistic bike-share 12 month data, 
 
 ## Data Analyst Job Market Analysis - Virginia
 ### Project Description
-This project analyzes job postings for Data Analyst roles in Virginia (VA) to identify top-paying skills, highest-paying job opportunities, most demanded skills, and optimal skills that combine both high demand and competitive salaries. The analysis is based on data from a job postings dataset. [Click here to view the project](https://github.com/jvillat2/Data-Analyst-Job-Market-Analysis-in-Virginia)
+This project analyzes job postings for Data Analyst roles in Virginia to identify top-paying skills, highest-paying job opportunities, most demanded skills, and optimal skills that combine both high demand and competitive salaries. The analysis is based on data from a job postings dataset. [Click here to view the project](https://github.com/jvillat2/Data-Analyst-Job-Market-Analysis-in-Virginia)
 
 ### Tools and Languages Used
 * SQL
