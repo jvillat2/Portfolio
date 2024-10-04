@@ -12,9 +12,9 @@ Conducted an in-depth analysis in Python of Cyclistic bike-share 12 month data, 
 * Scikit-learn (for KNeighborsClassifier)
 * Jupyter Notebook (for interactive data analysis and visualization)
 
-## Data Analyst Job Market Analysis - Virginia
+## Data Analyst Job Market Analysis - US
 ### Project Description
-This project analyzes job postings for Data Analyst roles in Virginia to identify top-paying skills, highest-paying job opportunities, most demanded skills, and optimal skills that combine both high demand and competitive salaries. The analysis is based on data from a job postings dataset. [Click here to view the project](https://github.com/jvillat2/Data-Analyst-Job-Market-Analysis-in-Virginia)
+This project analyzes job postings for Data Analyst roles in the US to identify top-paying skills, highest-paying job opportunities, most demanded skills, and optimal skills that combine both high demand and competitive salaries. [Click here to view the project](https://github.com/jvillat2/Data-Analyst-Job-Market-Analysis-in-Virginia)
 
 ### Tools and Languages Used
 * SQL
